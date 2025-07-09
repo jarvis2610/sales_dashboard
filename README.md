@@ -8,6 +8,14 @@ This repository showcases a series of interactive, real-time sales dashboards bu
 
 The dashboards are connected to real-time data sources and are designed to be visually informative, user-friendly, and responsive. Each task focuses on different aspects of data visualization and business intelligence.
 
+Files included :
+1. Link for TASK 1 from Google Looker. 
+2. Link for TASK 2 from Google Looker.
+3. Link for TASK 3 from Google Looker.
+4. Link for TASK 4 from Google Looker.
+5. finaldataset.csv (Dataset).
+6. Real Time Sales Dashboard Report.pdf
+
 ---
 
 ## 📌 Tasks and Dashboard Links
@@ -24,7 +32,7 @@ The dashboards are connected to real-time data sources and are designed to be vi
 ## 📂 About the Project
 
 - Built using: **Google Looker Studio**
-- Data source: Connected to **MySQL/Google Sheets** (or your preferred source)
+- Data source: finaldataset.csv
 - Features: Filters, charts, time series, scorecards, drill-downs, category-wise insights
 
 ---
