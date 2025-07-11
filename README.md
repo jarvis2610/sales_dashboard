@@ -27,7 +27,7 @@ Files included :
 | **Task 2** | Identify the top 5 best-selling "Mobiles & Tablets" products of 2022 based on valid order quantities. | [View Dashboard](https://lookerstudio.google.com/reporting/83cea6d6-f8b7-4cb7-8307-843810725ec2) |
 | **Task 3** | Compare total revenue before and after discounts by category to assess the impact of discounting strategies. | [View Dashboard](https://lookerstudio.google.com/reporting/2e630e9e-acfd-4f85-941f-4448c4964506) |
 | **Task 4** | Segment sales by discount range to understand how varying discount levels affect overall sales performance. | [View Dashboard](https://lookerstudio.google.com/reporting/41e74412-8a6c-4341-b012-82b62a1ac956) |
-| **Training Project** | Training project dashboard with end-to-end sales insights and data storytelling. | [View Training Project](https://lookerstudio.google.com/reporting/YOUR-TRAINING-PROJECT-LINK) |
+| **Training Project** | Training project dashboard with end-to-end sales insights and data storytelling. | [View Training Project](https://lookerstudio.google.com/reporting/3bdfdf3b-f21c-4818-8dea-2ac3a9d5b681) |
 
 > 🔄 **Replace `YOUR-TRAINING-PROJECT-LINK` above with your actual Looker Studio link**
 
