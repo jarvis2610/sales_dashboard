@@ -15,6 +15,7 @@ Files included :
 4. Link for TASK 4 from Google Looker.
 5. finaldataset.csv (Dataset).
 6. Real Time Sales Dashboard Report.pdf
+7. Link for Training Project from Google Looker.
 
 ---
 
