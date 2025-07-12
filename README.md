@@ -29,7 +29,7 @@ Files included :
 | **Task 4** | Segment sales by discount range to understand how varying discount levels affect overall sales performance. | [View Dashboard](https://lookerstudio.google.com/reporting/41e74412-8a6c-4341-b012-82b62a1ac956) |
 | **Training Project** | Training project dashboard with end-to-end sales insights and data storytelling. | [View Training Project](https://lookerstudio.google.com/reporting/3bdfdf3b-f21c-4818-8dea-2ac3a9d5b681) |
 
-> 🔄 **Replace `YOUR-TRAINING-PROJECT-LINK` above with your actual Looker Studio link**
+
 
 ---
 
